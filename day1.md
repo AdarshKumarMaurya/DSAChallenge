@@ -2,7 +2,7 @@
 
 > **DSA Partner Challenge** | Week 1: Language Basics + Maths for DSA
 
-**Notes Link: https://drive.google.com/file/d/1G1zdQu4eKHAq034zREECFS_Qu6Msr5Wd/view?usp=sharing
+**Notes Link: https://docs.google.com/document/d/1-YexeXgs2_zimnG1MaGx7HKIjbfVYNdECSB8vIPP5ck/edit?usp=sharing
 
 ---
 ## 📌 Topic of the Day
