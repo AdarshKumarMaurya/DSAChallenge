@@ -30,7 +30,7 @@
 
 ## 🧭 What is This?
 
-This is the official repository for the **DSA Partner Challenge** — a free, structured, community-driven DSA preparation program running for 60–70 days.
+This is the official repository for the **DSA Challenge** — a free, structured, community-driven DSA preparation program running for 60–70 days.
 
 Every day, you get:
 
@@ -86,8 +86,8 @@ Week 13+   →   Advanced Topics + Interview Prep
 
 ```bash
 # Fork via GitHub UI, then clone your fork
-git clone https://github.com/YOUR_USERNAME/dsa-partner-challenge.git
-cd dsa-partner-challenge
+git clone https://github.com/YOUR_USERNAME/DSAChallenge.git
+cd DSAChallenge
 ```
 
 **Step 2 — Follow the daily structure**

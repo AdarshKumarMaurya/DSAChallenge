@@ -5,7 +5,6 @@
 **Notes Link: https://drive.google.com/file/d/1G1zdQu4eKHAq034zREECFS_Qu6Msr5Wd/view?usp=sharing
 
 ---
-
 ## 📌 Topic of the Day
 
 **Introduction to Programming — Types of Languages, Memory Management & Flow of Programs**
@@ -181,5 +180,4 @@ Share your flowcharts and pseudocode — photo of paper is absolutely fine.
 **Done all 5? Drop a 🔥 in the community.**
 
 ---
-
 *Next up → Day 2: Writing Your First Programs*
